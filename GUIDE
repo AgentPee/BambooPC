@@ -1,0 +1,9 @@
+SETTING UP API
+-create dotenv with GEMINI_API_KEY=key_here
+
+STARTING APPLICATION
+-go to backend directory install dependencies npm install
+-run application npm start
+
+INSTALLATION NEEDED
+-node.js
